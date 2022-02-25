@@ -9,3 +9,7 @@
 -   **label-logger** in **[Rust](https://www.rust-lang.org/)**
 
     > A Cargo-like logging library with terminal configuration.
+
+-   **git-cmz** in **[Rust](https://www.rust-lang.org/)**
+
+    > A cli tool that allow you to follow conventional commits convention bug-free. Use with `git cmz | git commit -F -` (build the message and then pass it to git via stdin)
